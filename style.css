@@ -42,7 +42,7 @@ body {
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/rectangle-1-bg.png');
+  background-image: url('rectangle-1-bg.png');
   flex-shrink: 0;
 }
 .desktop-1-ny5 .home-ynf .homee-aAB .home-sf5 .mirror-remove-1-wuq {
@@ -350,7 +350,7 @@ body {
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/rectangle-6-bg.png');
+  background-image: url('rectangle-6-bg.png');
 }
 .desktop-1-ny5 .home-ynf .about-fCB .auto-group-ctax-1FM .rectangle-8-Bp3 {
   width: 143.8rem;
